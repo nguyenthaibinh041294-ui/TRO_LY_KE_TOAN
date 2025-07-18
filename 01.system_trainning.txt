@@ -1136,13 +1136,102 @@ Thực hiện nộp tờ khai và lợi nhuận còn lại năm 2024 cho Cục t
 II. KẾT LUẬN
 Phân loại doanh nghiệp:  - An toàn về tài chính       
 				- Mất an toàn về tài chính •	
-Người lập biểu
+Thông tin tài chính Quý 2/2025:
+VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO						
+KẾT QUẢ HOẠT ĐỘNG KINH DOANH						
+						
+1. Tổng doanh thu bán hàng và cung cấp dịch vụ				Quý BC năm nay		Quý BC năm trước
+						
+- Doanh thu từ hoạt động xây dựng, bán căn hộ (KDĐÔ)				60.919.728.092		36.314.804.599
+- Doanh thu từ hoạt động xây dựng, sửa chữa (XDCB)				3.855.092.976		5.540.215.492
+- Doanh thu từ hoạt động dịch vụ				45.941.475.668		41.955.234.299
+- Doanh thu từ hoạt động công ích (Duy tu cầu đường, vệ sinh)				10.421.212.653		1.174.844.489
+						
+	Cộng			121.137.509.389		84.985.098.879
+						
+2. Các khoản giảm trừ doanh thu				Quý BC năm nay		Quý BC năm trước
+- Chiết khấu thương mại						
+- Giảm giá hàng bán						
+- Hàng bán bị trả lại						
+	Cộng			0		0
+						
+3. Giá vốn hàng bán				Quý BC năm nay		Quý BC năm trước
+						
+- Giá vốn của hoạt động xây dựng, bán căn hộ (KDĐÔ)				23.393.109.072		14.066.182.895
+- Giá vốn của hoạt động xây dựng, sửa chữa (XDCB)				3.587.879.144		3.927.962.489
+- Giá vốn của hoạt động dịch vụ				25.097.304.975		20.932.767.867
+- Giá vốn của hoạt động công ích (Duy tu cầu đường, vệ sinh)				9.838.811.488		535.031.763
+						
+                            Cộng:				61.917.104.679		39.461.945.014
+						
+4. Doanh thu hoạt động tài chính				Quý BC năm nay		Quý BC năm trước
+						
+- Lãi tiền gửi, tiền cho vay				179.768.370		283.427.176
+						
+                           Cộng:				179.768.370		283.427.176
+						
+5. Chi phí tài chính				Quý BC năm nay		Quý BC năm trước
+						
+- Lãi tiền vay				155.659.498		29.235.555
+						
+                           Cộng:				155.659.498		29.235.555
+						
+6. Chi phí quản lý doanh nghiệp				Quý BC năm nay		Quý BC năm trước
+						
+- Chi phí nhân viên quản lý				6.562.271.095		6.252.576.715
+- Chi phí vật liệu quản lý				172.944.076		112.501.191
+- Chi phí đồ dùng văn phòng				14.900.000		16.095.455
+- Chi phí khấu hao tài sản cố định				38.095.770		30.013.261
+- Thuế, phí và lệ phí				0		0
+- Chi phí dịch vụ mua ngoài				603.510.294		610.524.931
+- Chi phí bằng tiền khác				1.519.275.517		1.139.604.196
+						
+                           Cộng:				8.910.996.752		8.161.315.749
+						
+7. Thu nhập khác				Quý BC năm nay		Quý BC năm trước
+						
+- Các khoản chênh lệch thanh toán khách hàng,				45.976.559		450.525.558
+thu nhập khác…						
+                           Cộng:				45.976.559		450.525.558
+						
+8. Chi phí khác				Quý BC năm nay		Quý BC năm trước
+						
+- Các khoản tiền phạt, truy thu nộp thuế, chứng từ không				317.256.263		6.500.000
+hợp lệ…						
+- Các khoản chênh lệch thanh toán khách hàng,				227		3.598.799
+chi phí khác…						
+                           Cộng:				317.256.490		10.098.799
+						
+9. Chi phí thuế TNDN hiện hành				Quý BC năm nay		Quý BC năm trước
+						
+- Lợi nhuận kế toán trước thuế				50.062.236.899		38.056.456.496
+- Cộng chi phí không hợp lý, hợp lệ				317.256.263		6.500.000
+- Thu nhập tính thuế				50.379.493.162		38.062.956.496
+- Thuế suất thuế TNDN				20%		20%
+- Thuế TNDN bị truy thu các năm trước						
+						
+   Chi phí thuế TNDN hiện hành				10.075.898.632		7.612.591.299
+						
+10. Chi phí sản xuất kinh doanh theo yếu tố				Quý BC năm nay		Quý BC năm trước
+						
+- Chi phí nguyên liệu, vật liệu				4.238.186.210		4.121.191.091
+- Chi phí nhân công				20.848.416.960		19.133.618.110
+- Chi phí khấu hao tài sản cố định				4.844.494.807		3.091.023.291
+- Chi phí dịch vụ mua ngoài				20.076.389.997		12.724.585.559
+- Chi phí khác bằng tiền				1.646.456.856		1.479.790.403
+- Chi phí phân bổ chung				1.890.790.260		1.279.106.306
+						
+                           Cộng:				53.544.735.090		41.829.314.760
+						
+VII. NHỮNG THÔNG TIN KHÁC						
+						
+1. Các sự kiện sau ngày kết thúc quý						
+						
+- Sau ngày kết thúc quý đến ngày lập Báo cáo tài chính không có sự kiện bất thường nào xảy ra.						
+						
+2. Những thông tin khác						
+						
+- Ngoài những thông tin đã trình bày trên, trong kỳ Công ty không có sự kiện trọng yếu nào xảy ra đòi hỏi phải trình bày hay công bố trên Báo cáo tài chính.						
+- Công ty đang trong quá trình chuẩn bị chuyển đổi loại hình doanh nghiệp từ Công ty TNHH Một Thành Viên thành Công ty Cổ phần theo Quyết định của Ủy ban nhân dân Thành phố Hồ Chí Minh.						
 
-
-
-	Giám đốc
-
-
-
-Đỗ Thành Nhân
 
